@@ -21,7 +21,7 @@ The csv files in this directory were extracted from wikipedia entry on Joint Ele
 
 ## Systems Training Documents
 
--[Electronics Material Officer Course (Has Components Designations)](https://man.fas.org/dod-101/navy/docs/swos/e1/MOD3LES1.html)
--[Electricity & Electronics Training Series (NEETS) - Glossary](http://www.compatt.com/Tutorials/NEETS/New_PDF/14195A.pdf)
--[Navy Documents - Source Material](https://man.fas.org/dod-101/navy/docs/index.html)
--[Enlisted Surface Warfare Study Guide - Has Definitions](https://man.fas.org/dod-101/navy/docs/esws.htm)
+- [Electronics Material Officer Course (Has Components Designations)](https://man.fas.org/dod-101/navy/docs/swos/e1/MOD3LES1.html)
+- [Electricity & Electronics Training Series (NEETS) - Glossary](http://www.compatt.com/Tutorials/NEETS/New_PDF/14195A.pdf)
+- [Navy Documents - Source Material](https://man.fas.org/dod-101/navy/docs/index.html)
+- [Enlisted Surface Warfare Study Guide - Has Definitions](https://man.fas.org/dod-101/navy/docs/esws.htm)
